@@ -1,4 +1,3 @@
-
 // Marvel API configuration
 const MARVEL_PUBLIC_KEY = '339e1842b552df3fdfb719066fca8583';
 const MARVEL_BASE_URL = 'https://gateway.marvel.com/v1/public';
